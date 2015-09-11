@@ -10,7 +10,6 @@ namespace Algorithm
     {
         static void Main(string[] args)
         {
-
             Console.ReadLine();
         }
 
