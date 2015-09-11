@@ -48,6 +48,7 @@
     <Compile Include="Sorting\BubbleSort.cs" />
     <Compile Include="Sorting\InsertionSort.cs" />
     <Compile Include="Sorting\ISorter.cs" />
+    <Compile Include="Sorting\MergeSort.cs" />
     <Compile Include="String\WordReverser.cs" />
   </ItemGroup>
   <ItemGroup>
