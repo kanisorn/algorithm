@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sorting\BubbleSort.cs" />
+    <Compile Include="Sorting\ISorter.cs" />
     <Compile Include="String\WordReverser.cs" />
   </ItemGroup>
   <ItemGroup>
